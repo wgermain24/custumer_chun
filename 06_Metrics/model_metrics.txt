@@ -1,0 +1,47 @@
+Model Metrics - Final Model Features, Parameters, Hyperparameters, and Performance Metrics
+
+Model Name: GradientBoostingClassifier
+
+Features Used:
+
+- Gender             
+- Senior Citizen     
+- Partner            
+- Dependents         
+- Tenure Months      
+- Phone Service      
+- Multiple Lines     
+- Internet Service   
+- Online Security    
+- Online Backup      
+- Device Protection  
+- Tech Support       
+- Streaming TV       
+- Streaming Movies   
+- Contract           
+- Paperless Billing  
+- Payment Method     
+- Monthly Charges    
+- CLTV               
+- County             
+
+
+Parameters and Hyperparameters:
+- n_estimators: 354
+- max_depth: 9
+- min_samples_split: 18
+- min_samples_leaf: 8
+- max_features: None
+- learning_rate: 0.1
+
+Performance Metrics:
+- Accuracy: 0.9912
+- Precision: 0.9900
+- Train Recall: 0.9931
+- Test Recall : 0.9959
+- F1 Score: 0.9900
+
+
+Confusion matrix: 
+[[1703   21],
+ [   8 1716]]
