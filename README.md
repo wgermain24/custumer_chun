@@ -5,4 +5,3 @@ Telco, a leading provider of telephone, internet, and streaming TV services in C
 
 Our machine learning model is designed specifically for Telco’s needs, enabling the company to forecast customer churn with precision. By identifying at-risk customers and the drivers of dissatisfaction, Telco can implement targeted strategies to retain subscribers, boost loyalty, and secure its market position.
 
-# 1. Data
